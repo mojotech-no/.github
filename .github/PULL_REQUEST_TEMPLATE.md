@@ -4,7 +4,7 @@
 <!--- Please use GitHub Copilot to generate description. -->
 
 ## Additional information
-- This PR fixes or closes issue: fixes #
+- [ ] Issues this PR closes are linked under development --->
 - This PR is related to issue: 
 
 ## Screenshots (if appropriate):
