@@ -1,7 +1,8 @@
 ## Hi there 👋
-mojotech is a fictional company, with the only intent to spread tech joy.
 
-Watch paint dry: https://www.mojotech.no/
+mojotech is a one-person business.
+
+See: https://www.mojotech.no/
 <!--
 
 **Here are some ideas to get you started:**
